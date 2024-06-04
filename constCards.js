@@ -56,4 +56,3 @@ function drawCard() {
 
 
 
-// javaScript for the card game 
